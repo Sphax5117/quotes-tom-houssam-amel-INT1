@@ -18,7 +18,7 @@ int main() {
         len++;
     }
     for (int i = 0; i < len; i++) {
-        printf("%c", text[i]);
+        printf("%c", text[i]); //we add to text[i] each char
     }
 
 
