@@ -11,7 +11,7 @@ void print_random_quote(char ** quotes) {
 }
 
 void add_quote() {
-
+   printf("TEST");
 }
 
 void remove_quote() {
@@ -23,5 +23,5 @@ void display_all_quote() {
 }
 
 void menu() {
-   
+
 } 
