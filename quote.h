@@ -10,5 +10,8 @@
 
 void print_quote(char ** quotes, int index);
 void print_random_quote(char ** quotes);
+void add_quote();
+void remove_quote();
+void display_all_quote();
 
 #endif
